@@ -9,8 +9,6 @@ import discord
 
 from cogs import utils
 
-export DISCORD_BOT_TOKEN={ODMxMzQ1Mjc1MDE1NzkwNjQy.YHT4nw.9BDXwPoavnxDa_QnD2zsepFgyvs}
-pip install discord.py
 # Set up the loggers
 def set_log_level(logger_to_change:logging.Logger, loglevel:str):
     if loglevel is None:
